@@ -39,7 +39,7 @@
 - JavaScript
 - GitHub Copilot
 - VS Code / Codespaces
-- Git &amp; GitHub
+- Git & GitHub
 ```
 
 ---
